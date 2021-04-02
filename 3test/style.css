@@ -1,0 +1,98 @@
+
+
+.body{
+    
+}
+
+.positionbg {
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+/*//////////////////////////////USER CHAMP////////////////////////////////////////////////*/
+
+
+
+.d1{
+/*background-color: blue;*/
+    background-image: url(mib1.png);
+    height: 128px;
+    width: 180px;
+    position: absolute;  
+    margin-left: -40px;
+    margin-top: 95px;
+    z-index: 8;  
+}
+
+/*
+.d2 {
+    height: 128px;
+    width: 128px;
+    background-image: url(mib2.png);
+    position: absolute;
+    margin-top: 50px;
+    z-index: 8;
+
+}*/
+
+.d3{
+
+    height:128px ;
+    width: 128px;
+    background-image: url(run.png);
+    position: absolute;
+    margin-left: -40px;
+    margin-top: 129px;
+    z-index: 8;
+    
+
+}
+
+/*
+
+.d4{
+    height: 128px;
+    width: 128px;
+    background-image: url(dash.png);
+    position: absolute;
+    margin-top: 150px;
+    z-index: 8;
+}
+
+.d5{
+    height: 128px;
+    width: 128px;
+    background-image: url(melee.png);
+    position: absolute;
+    margin-top:200px;
+    z-index: 8;
+}
+
+
+
+
+
+.d6{
+    
+    height: 128px;
+    width: 128px;
+    background-image: url(jump.png);
+    position: absolute;
+    margin-left: -40px;
+    margin-top: 125px;
+    z-index: 8;
+}
+*/ 
+
+
+
+
+
+
+
